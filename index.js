@@ -38,6 +38,7 @@ class Passenger {
     return trip.driver();
   });
 }
+}
 
 class Trip {
   constructor(driver, passenger) {
