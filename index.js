@@ -1,1 +1,3 @@
-let store = {drivers: [], passengers: [], trips: []}
+let store = {drivers: [], passengers: [], trips: []};
+
+
